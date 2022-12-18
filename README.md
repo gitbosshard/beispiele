@@ -2,7 +2,7 @@
 
 Herzlich willkommen beim Demo-Quellcode zum [PWA-Praxisbuch](https://www.rheinwerk-verlag.de/progressive-web-apps_4707/). In diesem Repository finden Sie den Beispielquellcode zu den einzelnen Buchkapiteln.
 
-## Entwicklungen nach Drucklegung
+## Entwicklungen nach Drucklegunggggg
 
 * Google implementiert derzeit [Periodic Background Sync](https://www.chromestatus.com/feature/5689383275462656) zur Umsetzung regelmäßiger Synchronisierungsereignisse, sofern der Client online ist (02.08.2019)
 * Die Tools [PWA2APK](https://appmaker.xyz/pwa-to-apk/) (in Basisversion kostenfrei, kostenpflichtig bei Wahl des Paketnamens) und [PWA Builder](https://www.pwabuilder.com/) erlauben die automatische Generierung von App-Store-Paketen auf Basis von Progressive Web Apps (31.07.2019).
